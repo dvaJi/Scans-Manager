@@ -10,7 +10,8 @@ class Example extends CI_Controller {
 		$this->lang->load('reader_lang');
 		$this->_init();
 	}
-
+	
+	// documentaaaaaaaaaaaaaaaaaar
 	private function _init()
 	{
 		$this->output->set_template('default');
